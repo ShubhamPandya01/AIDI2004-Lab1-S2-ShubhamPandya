@@ -1,1 +1,7 @@
-# AIDI2004-Lab1-S2-ShubhamPandya
+# AIDI2004 Lab 1 Scenario 2 - Shubham Pandya
+This repository demonstrates the Git branching workflow.
+
+## Branches
+- main: Production
+- staging: Development
+- feature/*: Individual features
